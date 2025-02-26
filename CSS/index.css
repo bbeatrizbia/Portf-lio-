@@ -415,19 +415,3 @@ footer p{
     /* fim tablet */
 
     /* inicio desktop */
-@media (min-width: 1550px){
-    .forms{
-        width: 1500px;
-        height: 650px;
-        margin: 5%;
-    }
-    .redes-contato h1{
-        font-size: 10rem;
-    }
-    .redes-contato p{
-        font-size: 3rem;
-    }
-    .redes-contato a ion-icon{
-        font-size: 4rem;
-    }
-}
