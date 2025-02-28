@@ -157,6 +157,18 @@
     margin: 5%;
 
 }
+.botao{
+    margin: 25px;
+}
+.projetos a{
+    border-radius: 25px;
+    background-color: rgb(11, 86, 172);
+    color: white;  
+    transition: 1s;
+    font-size: 15px;
+    padding: 15px;
+    margin: 5px;
+}
 .projetos .imagem{
     width: 100%;
     display: flex;
@@ -247,6 +259,14 @@ form button:hover{
     /*-----Início footer-----*/
 .contato{
     visibility: hidden;
+}
+.ion {
+    margin-top: 15px;
+    gap: 16px;
+    display: flex;
+}
+.ion ion-icon{
+    font-size: 2rem;
 }
 footer{
     background-color: gray;
