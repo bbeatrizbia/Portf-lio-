@@ -25,7 +25,7 @@ h3{
     font-size: 1.9rem;
 }
 .mobile span{
-    color: rgb(11, 86, 172);
+    color: rgb(121, 170, 226);
 }
 .mobile-menu{
     background-color: rgb(11, 86, 172);
@@ -53,7 +53,6 @@ ion-icon{
  .projetos ul li{
     box-shadow: 0 0 40px rgb(11, 86, 172);
  }
-
 @media (min-width: 840px){
 /* Versão desktop */
 .desktop-menu{
@@ -115,25 +114,22 @@ ion-icon{
     h3{
         font-size: 3rem;
     }
-    p{
+    .fale-cmg p{
         font-size: 2rem;
     }
 /* Edições gerais */
     .redes a img{
-       width: 30%;
+       width: 25%;
     }
     .desktop-menu h3{
         font-size: 3.5rem;
     }
     .menu-lista{
-        font-size: 2.5rem;
+        font-size: 2rem;
         gap: 40px;
     }
     .principal h1{
         font-size: 8rem;
-    }
-    .principal p{
-        font-size: 3rem;
     }
     .contatos img{
         width: 10%;
