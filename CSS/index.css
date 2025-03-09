@@ -99,8 +99,7 @@
     
         /* inicio sobre mim */
     .sobre{
-        height: 100vh;
-        gap: 50px;
+        padding: 25px;
     }
     .sobre h3{
         text-align: center;
